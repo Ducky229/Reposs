@@ -1,0 +1,12 @@
+C:\Users\229193-3\Desktop\Trigonindiv\Trigonindiv\obj\Debug\Trigonindiv.csprojAssemblyReference.cache
+C:\Users\229193-3\Desktop\Trigonindiv\Trigonindiv\obj\Debug\Trigonindiv.Form1.resources
+C:\Users\229193-3\Desktop\Trigonindiv\Trigonindiv\obj\Debug\Trigonindiv.Properties.Resources.resources
+C:\Users\229193-3\Desktop\Trigonindiv\Trigonindiv\obj\Debug\Trigonindiv.csproj.GenerateResource.cache
+C:\Users\229193-3\Desktop\Trigonindiv\Trigonindiv\obj\Debug\Trigonindiv.csproj.CoreCompileInputs.cache
+C:\Users\229193-3\Desktop\Trigonindiv\Trigonindiv\bin\Debug\Trigonindiv.exe.config
+C:\Users\229193-3\Desktop\Trigonindiv\Trigonindiv\bin\Debug\Trigonindiv.exe
+C:\Users\229193-3\Desktop\Trigonindiv\Trigonindiv\bin\Debug\Trigonindiv.pdb
+C:\Users\229193-3\Desktop\Trigonindiv\Trigonindiv\obj\Debug\Trigonindiv.exe
+C:\Users\229193-3\Desktop\Trigonindiv\Trigonindiv\obj\Debug\Trigonindiv.pdb
+C:\Users\229193-3\Desktop\Trigonindiv\Trigonindiv\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\229193-3\Desktop\Trigonindiv\Trigonindiv\obj\Debug\Trigonindiv.csproj.CopyComplete
